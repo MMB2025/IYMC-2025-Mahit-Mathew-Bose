@@ -6,6 +6,7 @@
 \usepackage{setspace}
 \setstretch{1.2}
 \usepackage{tikz}
+\usepackage{hyperref}
 
 
 % Title Details
@@ -63,6 +64,7 @@ Thus, the closed form is:
 \boxed{a_n = \frac{n(n+1)}{2}}
 \]
 
+\newpage
 \underline{Proving using Induction}:
 
 \vspace{0.2cm}
@@ -202,8 +204,11 @@ x = 2 + 20i\sqrt{5}, 2 - 20i\sqrt{5}
 \]
 which are complex numbers, i.e. $x \notin \mathbb{R}$
 
-Hence proved.
 
+\[
+\boxed{\text{Therefore,  there is no \(x \in \mathbb{R}\) that solves
+$\sqrt{3+x} + \sqrt{7-x} = 5$}}
+\]
 \newpage
 
 % ======================== Problem C ==========================
@@ -385,13 +390,14 @@ Thus, each triangle has:
 \]
 
 
-
+\vspace{1cm}
+\href{https://github.com/MMB2025/IYMC-2025-Mahit-Mathew-Bose}{Click here to view the Github repository with the LaTeX code used for the solution}
 
 
 
 \vspace{1cm}
 \begin{center}
-\textit{End of Solution Document}
+\textit{End of Document}
 \end{center}
 
 \end{document}
