@@ -391,10 +391,10 @@ Thus, each triangle has:
 
 
 \vspace{1cm}
-\href{https://github.com/MMB2025/IYMC-2025-Mahit-Mathew-Bose}{Click here to view the Github repository with the LaTeX code used for the solution}
+\color{blue}\href{https://github.com/MMB2025/IYMC-2025-Mahit-Mathew-Bose}{Click here to view the Github repository with the LaTeX code used for the solution}
 
 
-
+\color{black}
 \vspace{1cm}
 \begin{center}
 \textit{End of Document}
